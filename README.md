@@ -3,6 +3,7 @@
 This project involves an interactive Power BI dashboard for analyzing the annual sales performance of Vrinda Store in 2024. The dashboard provides insightful visualizations that enable detailed analysis of sales trends, customer demographics, order statuses, and channel performance.
 
 **Key Features**:
+
 Order vs Sales Trends:
 A dual-axis chart showcasing the monthly trends in the total sales amount and the number of orders placed throughout the year.
 
