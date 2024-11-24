@@ -4,10 +4,10 @@ This project involves an interactive Power BI dashboard for analyzing the annual
 
 **Key Features**:
 
-Order vs Sales Trends:
+**Order vs Sales Trends:**
 A dual-axis chart showcasing the monthly trends in the total sales amount and the number of orders placed throughout the year.
 
-Demographic Insights:
+**Demographic Insights**:
 Sales split by gender with a pie chart (Men: 36%, Women: 64%).
 Age and gender analysis using a bar chart, highlighting purchasing patterns across different age groups.
 Order Status Analysis:
